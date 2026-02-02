@@ -37,7 +37,7 @@ The main goal of this project is to replicate core features of Zomato such as re
     🔗 https://tomato-y8pa.onrender.com
  How to Run Locally
 1. Clone the repository:
-   https://github.com/vishalGitthub/Zomato_Clone/new/master?filename=README.md
+   https://github.com/vishalGitthub/Zomato_Clone/tree/master
 
 2. Navigate to the project folder:
    cd Zomato_Clone
